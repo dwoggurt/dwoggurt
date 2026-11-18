@@ -6,10 +6,16 @@
 - 👯 Ищу возможности для работы / стажировки
 - 📍 Нахожусь в Москве
 
-### 🛠️ Мой стек технологий
+### 🛠️ Стек и инструменты
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### 📊 Навыки
+![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-FF6F00?style=for-the-badge)
+
+### 🌍 Языки
+![English C1](https://img.shields.io/badge/English-C1-00599C?style=for-the-badge)
 
 ### 📊 Статистика GitHub
 ![Ваша статистика](https://github-readme-stats.vercel.app/api?username=dwoggurt&show_icons=true&theme=radical)
